@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+checkpoints/checkpoints.hdf5
+data/data.csv_y.npy
+data/data.csv_x.npy
+data/data.csv_coefficients.npy
